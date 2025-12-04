@@ -10,18 +10,18 @@ Professional Experience
 Toptal - Senior Java Developer
 Remote • Sep 2018 to current
 
-Designed and developed ultra-low-latency High Frequency Trading (HFT) systems in Java, achieving consistent sub 50 microseconds performance using Hydra Framework, Agrona, and Aeron message transport.
-Eliminated race conditions, memory barriers, and data corruption issues in highly concurrent, multi-threaded environments.
-Architected and led migration of document approval workflow to fully automated, event-driven microservices on AWS and GCP, reducing average approval time from 6.5 days to 1.8 days (72% improvement).
-Delivered full end-to-end automation (zero human touch) for 26% of document validation workflows using advanced algorithms, enabling client to reduce verification team size by 75% and save millions of dollars annually.
-Built and supported large-scale, distributed, event-driven systems processing millions of records per day using Kafka, Google Cloud Pub/Sub, AWS SQS/SNS, Redis, and PostgreSQL.
-Designed and implemented real-time user interfaces with React, Angular, TypeScript, and Server-Sent Events (SSE) / WebSockets for instant updates and intuitive user experience.
-Implemented secure OAuth2 authentication and authorization using Keycloak and client-credentials flow; integrated with Microsoft Graph API for automated email processing.
-Owned full-stack performance, reliability, and security: resolved concurrency bottlenecks, optimized REST and SOAP endpoints, refactored legacy code, implemented input validation/sanitization, and migrated secrets to Google Cloud Secret Manager.
-Established zero-defect production policy: proactively monitored logs, resolved issues within minutes, and achieved close to zero error logs in production for many months.
-Enforced code quality via PMD, SpotBugs, and custom static analysis rules integrated into Jenkins CI/CD pipelines; blocked all deployments containing critical bugs or anti-patterns.
-Developed cloud-native message processing pipelines using AWS S3, SQS, SNS, GCP Pub/Sub, Docker and Kubernetes, and controlled Selenium-based PDF extraction from whitelisted sources.
-Created and maintained Python automation scripts for email parsing, data transformation, and Java code generation to accelerate development velocity.
+* Designed and developed ultra-low-latency High Frequency Trading (HFT) systems in Java, achieving consistent sub 50 microseconds performance using Hydra Framework, Agrona, and Aeron message transport.
+* Eliminated race conditions, memory barriers, and data corruption issues in highly concurrent, multi-threaded environments.
+* Architected and led migration of document approval workflow to fully automated, event-driven microservices on AWS and GCP, reducing average approval time from 6.5 days to 1.8 days (72% improvement).
+* Delivered full end-to-end automation (zero human touch) for 26% of document validation workflows using advanced algorithms, enabling client to reduce verification team size by 75% and save millions of dollars annually.
+* Built and supported large-scale, distributed, event-driven systems processing millions of records per day using Kafka, Google Cloud Pub/Sub, AWS SQS/SNS, Redis, and PostgreSQL.
+* Designed and implemented real-time user interfaces with React, Angular, TypeScript, and Server-Sent Events (SSE) / WebSockets for instant updates and intuitive user experience.
+* Implemented secure OAuth2 authentication and authorization using Keycloak and client-credentials flow; integrated with Microsoft Graph API for automated email processing.
+* Owned full-stack performance, reliability, and security: resolved concurrency bottlenecks, optimized REST and SOAP endpoints, refactored legacy code, implemented input validation/sanitization, and migrated secrets to Google Cloud Secret Manager.
+* Established zero-defect production policy: proactively monitored logs, resolved issues within minutes, and achieved close to zero error logs in production for many months.
+* Enforced code quality via PMD, SpotBugs, and custom static analysis rules integrated into Jenkins CI/CD pipelines; blocked all deployments containing critical bugs or anti-patterns.
+* Developed cloud-native message processing pipelines using AWS S3, SQS, SNS, GCP Pub/Sub, Docker and Kubernetes, and controlled Selenium-based PDF extraction from whitelisted sources.
+* Created and maintained Python automation scripts for email parsing, data transformation, and Java code generation to accelerate development velocity.
 
 
 Crossover – Java Chief Architect
