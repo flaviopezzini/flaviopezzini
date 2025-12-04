@@ -26,18 +26,20 @@ Remote • Sep 2018 to current
 
 Crossover – Java Chief Architect
 Remote • Oct 2017 – Aug 2018
-Served as Chief Architect for six multi-tenant telecom billing platforms processing millions of records daily using Java 6/7, J2EE, event-driven architecture, and pipeline processing patterns.
-Modernized legacy J2EE codebase, resolved critical customer-facing production incidents, and introduced automated testing and deployment practices across distributed teams.
-Led architecture reviews and mentored senior developers on scalable design, concurrency, and performance optimization.
+* Served as Chief Architect for six multi-tenant telecom billing platforms processing millions of records daily using Java 6/7, J2EE, event-driven architecture, and pipeline processing patterns.
+* Modernized legacy J2EE codebase, resolved critical customer-facing production incidents, and introduced automated testing and deployment practices across distributed teams.
+* Led architecture reviews and mentored senior developers on scalable design, concurrency, and performance optimization.
+
 PrestoSports – Senior Java Developer
 Remote • Mar 2014 – Jul 2017
-Designed and delivered new features and performance improvements for a Java/Spring/Hibernate platform serving collegiate sports data across the US and Canada.
-Owned full development lifecycle using Spring, Hibernate, MySQL, JSP/JSTL, jQuery, Bootstrap, and Git/JIRA.
-Mentored junior developers, performed root-cause analysis on production issues, and reduced critical bug backlog by 60 %.
+* Designed and delivered new features and performance improvements for a Java/Spring/Hibernate platform serving collegiate sports data across the US and Canada.
+* Owned full development lifecycle using Spring, Hibernate, MySQL, JSP/JSTL, jQuery, Bootstrap, and Git/JIRA.
+* Mentored junior developers, performed root-cause analysis on production issues, and reduced critical bug backlog by 60 %.
+
 Dell, IBM, Deutsche Bank – Senior Java Developer
 Remote & On-site (Porto Alegre/Brazil) • 2003 - 2014
-Delivered enterprise-grade Java solutions for Fortune-500 clients in finance, hardware, and consulting environments using Spring Boot and Java.
-Specialized in high-availability, multi-tier J2EE systems, performance tuning, and large-scale data processing.
+* Delivered enterprise-grade Java solutions for Fortune-500 clients in finance, hardware, and consulting environments using Spring Boot and Java.
+* Specialized in high-availability, multi-tier J2EE systems, performance tuning, and large-scale data processing.
 
 
 
