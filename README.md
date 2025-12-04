@@ -1,5 +1,4 @@
-👋 Hi, I'm Flavio Pezzini
-Profile Views 
+Hi, I'm Flavio Pezzini 
 
 🚀 Principal Architect | Cloud Solutions Expert
 Results-driven Principal Engineer with over 20 years of experience building fast, scalable solutions for U.S. companies. Passionate about solving tough problems and improving software architecture to create excellent user experiences.
